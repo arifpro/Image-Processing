@@ -3,11 +3,11 @@ Image Basics with OpenCV and Python
 
 
 ## Screenshots
-#### withoutRedColor
+#### Without Red Color
 ![withoutRedColor](https://raw.githubusercontent.com/arifpro/Image-Processing/master/screenshots/withoutRedColor.png)
 
-#### shapes
+#### Shapes
 ![shapes](https://raw.githubusercontent.com/arifpro/Image-Processing/master/screenshots/shapes.png)
 
-#### addPointByMouse
+#### Add Point By Mouse
 ![addPointByMouse](https://raw.githubusercontent.com/arifpro/Image-Processing/master/screenshots/addPointByMouse.png)
